@@ -1,5 +1,5 @@
 System v2.0
 Status: working
-Mode: basic
+Mode: advanced
 theme=light
 notifications=on
