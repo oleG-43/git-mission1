@@ -1,6 +1,6 @@
-System v1.0
-Status: working
-Mode: basic
+System v1.5
+Status: testing
+Mode: experimental
 theme=dark
 notifications=on
 font=medium
