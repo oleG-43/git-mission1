@@ -1,0 +1,5 @@
+System v1.0
+Status: working
+Mode: basic
+theme=light
+notifications=on
