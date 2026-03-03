@@ -3,4 +3,4 @@ Status: working
 Mode: basic
 theme=dark
 notifications=on
-
+font=medium
