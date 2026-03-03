@@ -3,3 +3,4 @@ Status: working
 Mode: advanced
 theme=light
 notifications=on
+Security: enabled
